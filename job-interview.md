@@ -11,7 +11,6 @@ Teknologi informasi yang dibuat ialah berupa aplikasi perpustakaan berbasis mobi
 - Tagline: Membaca lebih praktis pada layar minimalis.
 - Campaign: Bagaimana membuat aplikasi yang dapat meningkatkan minat baca pengguna.
 - Target user:
-  - Usia 7+
   - Orang yang senang membaca
   - Orang yang ingin mencari ilmu pengetahuan
   - Orang yang sedang menekuni suatu pengetahuan
