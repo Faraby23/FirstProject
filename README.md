@@ -131,10 +131,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://www.linkedin.com/in/muhammad-faraby-thahrurrasyid-44403825b/
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/Faraby23
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![WhatsApp Image 2023-12-24 at 22 45 46_3ef8299c](https://github.com/Faraby23/FirstProject/assets/144707254/cb1d05ca-4570-40ca-878e-b11e6ad8cb3f)
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
