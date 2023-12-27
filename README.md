@@ -142,6 +142,7 @@ https://www.linkedin.com/in/muhammad-faraby-thahrurrasyid-44403825b/
 https://github.com/Faraby23
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+[MUHAMMAD FARABY-839821.pdf](https://github.com/Faraby23/FirstProject/files/13775378/MUHAMMAD.FARABY-839821.pdf)
 ![WhatsApp Image 2023-12-24 at 22 45 46_3ef8299c](https://github.com/Faraby23/FirstProject/assets/144707254/cb1d05ca-4570-40ca-878e-b11e6ad8cb3f)
 
 
