@@ -132,6 +132,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+https://mfarabyarrasyid.wordpress.com/2023/11/29/menggali-keindahan-dan-manfaat-rumah-kaca-ekosistem-mini-di-tengah-kota/
+
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
@@ -179,6 +181,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+
+![Screenshot (185)](https://github.com/Faraby23/FirstProject/assets/144707254/35517f20-b197-44f3-b6f1-a65c88ae791f)
+
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 https://youtu.be/77_HnsTd4VM
