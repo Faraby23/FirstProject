@@ -5,6 +5,50 @@ https://youtu.be/-j6j-2YCoPE
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+Mesin komputasi adalah perangkat keras yang dirancang untuk melakukan pemrosesan data dan menjalankan program-program komputer. Berikut adalah beberapa jenis mesin komputasi beserta contohnya:
+
+1. **Komputer Pribadi** (Personal Computer/PC):**
+   - *Contoh:* Komputer desktop, laptop, dan workstation.
+   - *Penjelasan:* Komputer pribadi dirancang untuk digunakan oleh satu orang. Mereka memiliki prosesor, memori, penyimpanan, dan perangkat input/output (seperti keyboard dan mouse).
+
+2. **Server:**
+   - *Contoh:* Server web, server database.
+   - *Penjelasan:* Server dirancang untuk memberikan layanan kepada banyak pengguna atau sistem. Server web, misalnya, mengelola permintaan dan pengiriman halaman web kepada pengguna.
+
+3. **Mainframe:**
+   - *Contoh:* IBM zSeries.
+   - *Penjelasan:* Mainframe adalah komputer berukuran besar yang dirancang untuk menangani volume data dan transaksi yang sangat besar, seringkali digunakan dalam lingkungan bisnis dan lembaga keuangan.
+
+4. **Superkomputer:**
+   - *Contoh:* Summit, Sierra.
+   - *Penjelasan:* Superkomputer adalah mesin komputasi paling kuat dan mahal yang dirancang untuk menangani perhitungan ilmiah dan teknik kompleks, seperti simulasi cuaca dan permodelan nuklir.
+
+5. **Komputer Tablet:**
+   - *Contoh:* iPad, Android tablet.
+   - *Penjelasan:* Komputer tablet adalah perangkat portabel dengan layar sentuh yang dapat digunakan untuk berbagai aplikasi, termasuk browsing web, membaca buku elektronik, dan menjalankan aplikasi produktivitas.
+
+6. **Embedded Systems (Sistem Tertanam):**
+   - *Contoh:* Mikrokontroler dalam peralatan elektronik, seperti mesin cuci, mobil, kamera digital.
+   - *Penjelasan:* Sistem tertanam adalah komputer kecil yang tertanam di dalam perangkat atau sistem lain untuk mengontrol fungsi khusus.
+
+7. **Sistem Pemrosesan Paralel:**
+   - *Contoh:* Clusters komputer, Grid computing.
+   - *Penjelasan:* Sistem ini menggunakan beberapa prosesor untuk bekerja secara bersamaan dalam menyelesaikan tugas tertentu, meningkatkan kecepatan pemrosesan.
+
+8. **Komputer Kuantum:**
+   - *Contoh:* IBM Quantum, Google Quantum Computer.
+   - *Penjelasan:* Komputer kuantum menggunakan prinsip-prinsip fisika kuantum untuk melakukan perhitungan. Mereka memiliki potensi untuk menangani masalah-masalah yang sulit dipecahkan oleh komputer klasik saat ini.
+
+9. **Sistem Pemrosesan Cerdas (Cognitive Computing):**
+   - *Contoh:* IBM Watson.
+   - *Penjelasan:* Sistem ini dapat memproses dan memahami data seperti manusia, termasuk bahasa alami, pengenalan pola, dan pembelajaran mesin.
+
+10. **Komputer Wearable:**
+    - *Contoh:* Smartwatch, Augmented Reality glasses.
+    - *Penjelasan:* Komputer yang dapat dipakai di tubuh pengguna, dirancang untuk memberikan fungsionalitas tertentu dan seringkali terhubung ke perangkat lain atau internet.
+
+Setiap jenis mesin komputasi memiliki karakteristik dan penggunaan yang berbeda-beda sesuai dengan kebutuhan dan tujuannya.
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://youtu.be/kT5ViUWf1go
 
