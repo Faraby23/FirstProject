@@ -124,6 +124,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+![Screenshot (180)](https://github.com/Faraby23/FirstProject/assets/144707254/7ee48072-b461-4a52-bf39-9835b1f46f58)
+
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
