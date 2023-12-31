@@ -55,6 +55,8 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
+![Screenshot (184)](https://github.com/Faraby23/FirstProject/assets/144707254/bfd19bf7-4d2b-43f6-90a1-fc6afe28fd4a)
+
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
