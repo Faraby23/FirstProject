@@ -250,6 +250,55 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+Bubble Sort adalah salah satu algoritma pengurutan sederhana yang bekerja dengan membandingkan dan menukar elemen-elemen adjacent satu per satu sampai seluruh array terurut. Berikut adalah contoh implementasi algoritma Bubble Sort menggunakan bahasa pemrograman Java:
+
+```java
+public class BubbleSort {
+    public static void main(String[] args) {
+        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+
+        System.out.println("Array sebelum diurutkan:");
+        printArray(arr);
+
+        bubbleSort(arr);
+
+        System.out.println("\nArray setelah diurutkan:");
+        printArray(arr);
+    }
+
+    // Metode untuk melakukan Bubble Sort pada array
+    static void bubbleSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n-1; i++) {
+            for (int j = 0; j < n-i-1; j++) {
+                // Bandingkan dua elemen adjacent
+                if (arr[j] > arr[j+1]) {
+                    // Tukar jika elemen pertama lebih besar dari elemen kedua
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
+        }
+    }
+
+    // Metode untuk mencetak array
+    static void printArray(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n; ++i)
+            System.out.print(arr[i] + " ");
+        System.out.println();
+    }
+}
+```
+
+![Screenshot (191)](https://github.com/Faraby23/FirstProject/assets/144707254/4eb5d4e3-9346-4739-9d76-aed60f973147)
+
+![image](https://github.com/Faraby23/FirstProject/assets/144707254/005765ee-0f84-40eb-b8aa-b4bab938c145)
+
+
+Dalam contoh di atas, kita memiliki array awal `{64, 34, 25, 12, 22, 11, 90}`, dan setelah menerapkan Bubble Sort, kita mendapatkan array yang diurutkan `{11, 12, 22, 25, 34, 64, 90}`.
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 Penggunaan IDE merupakan salah satu basic skill seorang programmer yang harusnya sudah berada diluar kepalanya. Karena IDE sendiri memiliki beberapa benefit besar yang dapat dimanfaatkan dan sangat membantu bagi seorang programmer yang mana pekerjaannya adalah menulis kode.
@@ -257,7 +306,9 @@ Penggunaan IDE merupakan salah satu basic skill seorang programmer yang harusnya
    IDE yang selama ini telah saya coba dan demonstrasikan yaitu:
    - Visual Studio dari Microsoft
    - Android Studio (dalam pengembangan aplikasi mobile)
-   - Visual Studio Code sebagai text editor dalam banyak project dan tugas-tugas dari dosen 
+   - Visual Studio Code sebagai text editor dalam banyak project dan tugas-tugas dari dosen
+
+![Screenshot (190)](https://github.com/Faraby23/FirstProject/assets/144707254/8a0d0b86-41a8-4d57-b430-8485842d18fd)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
@@ -411,6 +462,9 @@ https://mfarabyarrasyid.wordpress.com/2023/11/29/menggali-keindahan-dan-manfaat-
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+
+![Screenshot (189)](https://github.com/Faraby23/FirstProject/assets/144707254/693132e7-3cb0-44c9-a88a-ceb5ffd849fd)
+
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
