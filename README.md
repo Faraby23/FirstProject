@@ -479,6 +479,9 @@ https://mfarabyarrasyid.wordpress.com/2023/11/29/menggali-keindahan-dan-manfaat-
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+![image](https://github.com/Faraby23/FirstProject/assets/144707254/4ead4ef8-fe87-40bb-b279-e95a8f64b835)
+
+
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ![Screenshot (185)](https://github.com/Faraby23/FirstProject/assets/144707254/35517f20-b197-44f3-b6f1-a65c88ae791f)
